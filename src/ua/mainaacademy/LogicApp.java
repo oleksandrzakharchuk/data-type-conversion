@@ -1,3 +1,4 @@
+/*
 package ua.mainaacademy;
 
 import ua.mainaacademy.services.DigitalService;
@@ -12,3 +13,4 @@ public class LogicApp{
         }
 }
 
+*/

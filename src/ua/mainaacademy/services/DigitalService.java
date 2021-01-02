@@ -1,3 +1,4 @@
+/*
 package ua.mainaacademy.services;
 
 public class DigitalService {
@@ -59,3 +60,4 @@ public class DigitalService {
     }
 }
 
+*/
